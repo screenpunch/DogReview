@@ -209,7 +209,7 @@ export const dogs: Dog[] = [
       'A highly intelligent and energetic adolescent contributor in the wrong placement. Surplus energy redirected into peer agitation, after-hours barking, and the destruction of three discrete items of property (one sentimental risk, one beanbag, one pair of Birkenstocks). Strong fit for a household with an active young owner who can absorb the output hour for hour.',
     kpis: [
       { label: 'Toilet Compliance', score: 62, commentary: 'Improving, but continues to mark outdoor furniture as in-scope.' },
-      { label: 'Property Respect', score: 22, commentary: 'Three confirmed destructive incidents in fourteen days. Trajectory unfavourable.' },
+      { label: 'Property Respect', score: 22, commentary: 'Three confirmed destructive incidents in seven days. Trajectory unfavourable.' },
       { label: 'Stakeholder Affection', score: 50, commentary: 'Bright and engaged, but the energy is the energy. Affection is not the predominant interaction style.' },
       { label: 'Composure Under Stimulus', score: 35, commentary: 'Escalates rather than de-escalates. Active after dark.' },
       { label: 'Mealtime Conduct', score: 62, commentary: 'Acceptable when actively micromanaged; less so when left to his own devices.' },

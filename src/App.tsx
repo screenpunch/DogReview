@@ -24,7 +24,7 @@ export default function App() {
         <div className="hero-tag">CONFIDENTIAL · INTERNAL USE ONLY</div>
         <h1>Q2 Canine Performance Review</h1>
         <p className="hero-sub">
-          Six-direct-report cohort · Reporting period: 14 days of unsupervised
+          Six-direct-report cohort · Reporting period: 7 days of unsupervised
           stewardship · Reviewing manager: <em>Justin Young (Acting)</em>
         </p>
         <div className="hero-stats">

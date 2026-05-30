@@ -41,7 +41,7 @@ export const dogs: Dog[] = [
       { label: 'Property Respect', score: 55, commentary: 'Active interest in the wooden dining table; blanket-based deterrents deployed by the household with limited success. One pair of footwear belonging to a non-resident colleague also affected.' },
       { label: 'Stakeholder Affection', score: 92, commentary: 'Responsive to praise; reciprocates warmly.' },
       { label: 'Composure Under Stimulus', score: 92, commentary: 'Calm. Did not contribute to internal escalations. Score age-adjusted: at four months, this is exceptional.' },
-      { label: 'Mealtime Conduct', score: 92, commentary: 'Unremarkable in the best possible sense.' },
+      { label: 'Mealtime Conduct', score: 92, commentary: 'Enthusiastic. Age-appropriate excitement around food, well-conducted in execution.' },
     ],
     commendations: [
       'Recovered from upper-respiratory issue ahead of schedule',
@@ -76,7 +76,7 @@ export const dogs: Dog[] = [
       { label: 'Property Respect', score: 77, commentary: 'Joint engagement with the dining table; the household-deployed blanket layer has had mixed success.' },
       { label: 'Stakeholder Affection', score: 93, commentary: 'Affectionate, responsive to praise, ungovernable in the specific direction of joy.' },
       { label: 'Composure Under Stimulus', score: 82, commentary: 'High energy, improving channelisation. Score age-adjusted: at four months, well within range.' },
-      { label: 'Mealtime Conduct', score: 40, commentary: 'See QA process described above. Strictly out of policy.' },
+      { label: 'Mealtime Conduct', score: 40, commentary: 'Enthusiastic at the table itself; the score reflects only the post-deliverable QA process described above.' },
     ],
     commendations: [
       'Eliminated indoor pooping incidents entirely by mid-period',

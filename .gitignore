@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vite
+*.tsbuildinfo
+
+# Original full-size source photos — only the compressed JPGs in src/assets are shipped
+images/

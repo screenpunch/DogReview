@@ -40,7 +40,7 @@ export const dogs: Dog[] = [
       { label: 'Toilet Compliance', score: 94, commentary: 'No more pooping inside. Strongly attached to the cage-to-garden routine and now anticipates it.' },
       { label: 'Property Respect', score: 55, commentary: 'Active interest in the wooden dining table; blanket-based deterrents deployed by the household with limited success. One pair of footwear belonging to a non-resident colleague also affected.' },
       { label: 'Stakeholder Affection', score: 92, commentary: 'Responsive to praise; reciprocates warmly.' },
-      { label: 'Composure Under Stimulus', score: 92, commentary: 'Calm. Did not contribute to internal escalations. Score age-adjusted: at four months, this is exceptional.' },
+      { label: 'Composure Under Stimulus', score: 84, commentary: 'Calm. Did not contribute to internal escalations. For a four-month-old: doing well.' },
       { label: 'Mealtime Conduct', score: 92, commentary: 'Enthusiastic. Age-appropriate excitement around food, well-conducted in execution.' },
     ],
     commendations: [
@@ -75,7 +75,7 @@ export const dogs: Dog[] = [
       { label: 'Toilet Compliance', score: 85, commentary: 'No more pooping inside. Minor excitement-based leakage events persist.' },
       { label: 'Property Respect', score: 77, commentary: 'Joint engagement with the dining table; the household-deployed blanket layer has had mixed success.' },
       { label: 'Stakeholder Affection', score: 93, commentary: 'Affectionate, responsive to praise, ungovernable in the specific direction of joy.' },
-      { label: 'Composure Under Stimulus', score: 82, commentary: 'High energy, improving channelisation. Score age-adjusted: at four months, well within range.' },
+      { label: 'Composure Under Stimulus', score: 73, commentary: 'High energy, improving channelisation. For a four-month-old: doing well.' },
       { label: 'Mealtime Conduct', score: 40, commentary: 'Enthusiastic at the table itself; the score reflects only the post-deliverable QA process described above.' },
     ],
     commendations: [

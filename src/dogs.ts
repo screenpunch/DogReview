@@ -176,12 +176,12 @@ export const dogs: Dog[] = [
     age: '3 years old',
     rating: 'Exceeds Expectations',
     summary:
-      'Zero-incident review period. Delivered continuously against the affection mandate. Maintained operational proximity to the reviewing manager at all times. A model contributor and quietly indispensable.',
+      'A near-spotless review period. Delivered continuously against the affection mandate and maintained operational proximity to the reviewing manager at all times. One pattern on file: a recurring evening vocalisation routine, otherwise unblemished.',
     kpis: [
       { label: 'Toilet Compliance', score: 98, commentary: 'Spotless record.' },
       { label: 'Property Respect', score: 100, commentary: 'No incidents. No reports. No suspicions.' },
       { label: 'Stakeholder Affection', score: 100, commentary: 'Little spoon. Cannot be improved upon.' },
-      { label: 'Composure Under Stimulus', score: 92, commentary: 'Unflappable.' },
+      { label: 'Composure Under Stimulus', score: 78, commentary: 'Unflappable by day. After-hours barking in the evenings recurring throughout the period.' },
       { label: 'Mealtime Conduct', score: 95, commentary: 'Polite, present, gone.' },
     ],
     commendations: [
@@ -189,12 +189,14 @@ export const dogs: Dog[] = [
       '100% attendance at the side of the reviewing manager',
       'Set a benchmark for in-bed cohabitation across the cohort',
     ],
-    incidents: [],
+    incidents: [
+      'Recurring after-hours barking in the evenings (no triggering event identified)',
+    ],
     developmentAreas: [
-      'None identified. Continue.',
+      'Investigate cause of evening vocalisation; otherwise: continue.',
     ],
     managerNote:
-      'If every report were Harley, performance reviews would not exist. Recommend immediate promotion and a small, undeserved bonus for the rest of the cohort by association.',
+      'If every report were Harley, performance reviews would be considerably shorter. The evening barking is the one open item. Recommend a soft conversation, ideally on the bed, alongside continued and undeserved bonus by association.',
   },
   {
     name: 'Mario',
